@@ -12,7 +12,8 @@ Notebook  | Description |
 | [*Genomics with BioPython*](https://nbviewer.org/github/Naghipourfar/molecular-biomechanics/blob/main/genomics/genomics.ipynb)| Genomics Sequence Analysis with BioPython |
 | [*Natural Language Processing*](https://nbviewer.org/github/Naghipourfar/molecular-biomechanics/blob/main/deep%20learning/Word2Vec.ipynb)| NLP basics with Gensim, Word2Vec Introduction |
 | [*ProtVec*](https://nbviewer.org/github/Naghipourfar/molecular-biomechanics/blob/main/proteomics/ProtVec.ipynb)| Working with pre-trained protein vectors (ProtVec) |
-| [*Molecular Dynamics*](https://nbviewer.org/github/Naghipourfar/molecular-biomechanics/blob/main/proteomics/MD.ipynb)| Protein Molecular Dynamics introduction with MDAnalysis and ProDy |
+| [*Molecular Dynamics*](https://nbviewer.org/github/Naghipourfar/molecular-biomechanics/blob/main/proteomics/MD.ipynb)| Molecular Dynamics introduction with MDAnalysis |
+| [*Normal Mode Analysis*](https://nbviewer.org/github/Naghipourfar/molecular-biomechanics/blob/main/proteomics/NMA.ipynb)| Normal Mode Analysis with ProDy |
 
 
 
