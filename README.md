@@ -1,4 +1,4 @@
-# BioEC 112 (Introduction to Molecular Biomechanics) Course Materials
+# BioEng C112 (Molecular Biomechanics and Mechanobiology of the Cell) Course Materials
 Scripts, Jupyter Notebooks, homeworks, and other material of molecular biomechanics course. 
 
 ## Notebooks
