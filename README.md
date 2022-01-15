@@ -1,4 +1,4 @@
-# molecular-biomechanics
+# BioEC 112 (Introduction to Molecular Biomechanics) Course Materials
 Scripts, Jupyter Notebooks, homeworks, and other material of molecular biomechanics course. 
 
 ## Notebooks
