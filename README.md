@@ -9,7 +9,7 @@ Notebook  | Description |
 | [*Introduction To Python - 2*](https://nbviewer.org/github/Naghipourfar/molecular-biomechanics/blob/main/python/2%20-%20String%2C%20Lists%2C%20Loops.ipynb)| Strings, Lists, For Loops in Python |
 | [*Introduction To Python - 3*](https://nbviewer.org/github/Naghipourfar/molecular-biomechanics/blob/main/python/3%20-%20Functions%2C%20Dictionaries%2C%20Args%2C%20Scopes.ipynb)| Functions, Dictionaries, Arguments, and Scopes |
 | [*Introduction To Python - 4*](https://nbviewer.org/github/Naghipourfar/molecular-biomechanics/blob/main/python/4%20-%20Modules%2C%20Files%2C%20CSVs.ipynb)| Modules, File I/O (Specially CSV) in Python |
-| [*Genomics*](https://nbviewer.org/github/Naghipourfar/molecular-biomechanics/blob/main/genomics/genomics.ipynb)| Genomics Sequence Analysis with BioPython |
+| [*Genomics with BioPython*](https://nbviewer.org/github/Naghipourfar/molecular-biomechanics/blob/main/genomics/genomics.ipynb)| Genomics Sequence Analysis with BioPython |
 | [*Natural Language Processing*](https://nbviewer.org/github/Naghipourfar/molecular-biomechanics/blob/main/deep%20learning/Word2Vec.ipynb)| NLP basics with Gensim, Word2Vec Introduction |
 | [*ProtVec*](https://nbviewer.org/github/Naghipourfar/molecular-biomechanics/blob/main/proteomics/ProtVec.ipynb)| Working with pre-trained protein vectors (ProtVec) |
 | [*Molecular Dynamics*](https://nbviewer.org/github/Naghipourfar/molecular-biomechanics/blob/main/proteomics/MD.ipynb)| Protein Molecular Dynamics introduction with MDAnalysis and ProDy |
